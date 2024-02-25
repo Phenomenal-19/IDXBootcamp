@@ -1,0 +1,131 @@
+{
+    "Header": {
+      "title": "Technological Website",
+      "paragraph": "Latest Tech News Everyday"
+      
+    },
+    "About": {
+      "paragraph": "Get the Latest Tech News Everyday ",
+      "Why": [
+        "Fast",
+        "Reliable",
+        "Trusted",
+        "Quick"
+      ],
+      "Why2": [
+        "Sources",
+        "Google",
+        "Youtube",
+        "Blogs"
+      ]
+    },
+    "Portfolio":{
+      "caption1":"Latest Tech news around the globe.",
+      
+      "Gallery": [
+      {
+        "title": "News1",
+        
+        "smallImage": "img/portfolio/gad1.jpg"
+      },
+      {
+        "title": "News2",
+        
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "News3",
+        
+        "smallImage": "img/portfolio/gad3.jpg"
+      }
+      
+    ]
+  },
+  "OurServices":{
+    "caption":"Our Services",  
+    "Services": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Technews"
+        
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Gadgets"
+        
+      },
+      {
+        "icon": "fa fa-cloud-download",
+        "name": "System"
+        
+      }
+     
+    ]
+    },
+    "OurClientTestimonials":{
+       
+      "Testimonials": [
+      {
+        "img": "img/testimonials/client.jpg",
+        "text": "Good knowleadge ",
+        "name": " Client1"
+      },
+      {
+        "img": "img/testimonials/client.jpg",
+        "text": "Excellent News",
+        "name": " Client2"
+      },
+      {
+        "img": "img/testimonials/client.jpg",
+        "text": "Fantastic and Latest  ",
+        "name": " Client3"
+      }
+     
+    ]
+  },
+  "OurTeam":{
+    
+    "Team": [
+      {
+        "img": "img/team/user4.jpg",
+        "name": "Mr.X"
+        
+      },
+      {
+        "img": "img/team/user1.jpg",
+        "name": "Mr.Y"
+        
+      },
+      {
+        "img": "img/team/user2.jpg",
+        "name": "Mr.Z"
+        
+      }
+      
+    ]
+  },
+    "Contact": {
+      "address": "Haveli,Bengaluru,India",
+      "phone": "+91 6748034564",
+      "email": "haveli@gmail.com"
+    },
+    "Features": [
+     
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Mac"
+        
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Linux"
+        
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Windows"
+      
+      }
+    ]
+  }
+  
