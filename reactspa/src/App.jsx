@@ -28,7 +28,7 @@ const App = () => {
     <div>
   
        <Navigation/>
-       
+
       <Header data={landingPageData.Header}/>
       
       <Features data={landingPageData.Features}/>
@@ -50,3 +50,4 @@ const App = () => {
 };
 
 export default App;
+
